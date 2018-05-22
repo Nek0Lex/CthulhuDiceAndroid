@@ -1,0 +1,2 @@
+# CthulhuDiceAndroid
+Only dice drawing
